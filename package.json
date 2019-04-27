@@ -11,5 +11,13 @@
     "test": "mocha"
   },
   "author": "brother.symeon@gmail.com",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "",
+    "chia": ""
+  },
+  "dependencies": {
+    "chalk": "",
+    "cliui": ""
+  }
 }

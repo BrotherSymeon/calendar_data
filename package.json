@@ -8,7 +8,7 @@
     "test": "tests"
   },
   "scripts": {
-    "test": "mocha",
+    "test": "mocha ./tests",
     "saintsToJSON": "rm ./data/saints.json; node ./utils/saintsToJSON.js"
   },
   "author": "brother.symeon@gmail.com",

@@ -1,0 +1,55 @@
+Arguments: 
+  /home/innocent/.nvm/versions/node/v10.15.3/bin/node /home/innocent/.nvm/versions/node/v10.15.3/bin/yarn cache list
+
+PATH: 
+  /home/innocent/.nvm/versions/node/v10.15.3/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games
+
+Yarn version: 
+  1.15.2
+
+Node version: 
+  10.15.3
+
+Platform: 
+  linux x64
+
+Trace: 
+  Invariant Violation: There should only be one folder in a package cache (got  in /home/innocent/.cache/yarn/v4/npm-babel-plugin-istanbul-5.1.2-d8c2e2e83f72695d6bfdcd297719c66161d5f0f9/node_modules)
+      at invariant (/home/innocent/.nvm/versions/node/v10.15.3/lib/node_modules/yarn/lib/cli.js:2168:15)
+      at /home/innocent/.nvm/versions/node/v10.15.3/lib/node_modules/yarn/lib/cli.js:59605:7
+      at Generator.next (<anonymous>)
+      at step (/home/innocent/.nvm/versions/node/v10.15.3/lib/node_modules/yarn/lib/cli.js:304:30)
+      at /home/innocent/.nvm/versions/node/v10.15.3/lib/node_modules/yarn/lib/cli.js:315:13
+
+npm manifest: 
+  {
+    "name": "calendar",
+    "version": "1.0.0",
+    "description": "outputs the church calendar",
+    "main": "index.js",
+    "directories": {
+      "lib": "lib",
+      "test": "tests"
+    },
+    "scripts": {
+      "test": "mocha ./tests",
+      "saintsToJSON": "rm ./data/saints.json; node ./utils/saintsToJSON.js"
+    },
+    "author": "brother.symeon@gmail.com",
+    "license": "MIT",
+    "devDependencies": {
+      "mocha": "",
+      "chia": ""
+    },
+    "dependencies": {
+      "chalk": "",
+      "cliui": "",
+      "lodash": ""
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

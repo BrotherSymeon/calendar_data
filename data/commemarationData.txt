@@ -53,22 +53,22 @@
 + Our righteous Mother Syncletike of Alexandria.
 + Our righteous Father Gregory of Acritas in Bithynia.
 + Our righteous Father Phosterius.
-+ The Holy Martyr Sai's.
++ The Holy Martyr Sais.
 + The Holy Martyr Theoeidus.
 + Our righteous Mother Dornnina.
 + Our righteous MotherTatiana.
-+ The Holy New Righteous .1\.l.artyr Roman us of Carpenision.
-+ The Holy New Hieromartyr Romanus ofLacedaemonia.
++ The Holy New Righteous Martyr Roman us of Carpenision.
++ The Holy New Hieromartyr Romanus of Lacedaemonia.
 
 +JANUARY 6
-+Our Lord and God and Saviour Jesus Christ, Whose HolyTheophany we celebrate.
++Our Lord and God and Saviour Jesus Christ, Whose Holy Theophany we celebrate.
 +
 +JANUARY 7
 +The Holy and glorious Prophet, Forerunner, and Baptist John, Whose Syna.xis we celebrate, and the translation of whose most precious and Holy right hand to Constantinople we commemorate.
 +The Holy New Martyr Athanasius of Attalia.
-+The Holy Virgin .1\tlartyr Macra of Rheims.
++The Holy Virgin Martyr Macra of Rheims.
 +Saint Brannock of Ireland, the Abbot.
-+The Holy New Hieromartyr Andrew, Archpriest ofChernigov, and his daughters Dominica, Lydia, Mary, and two other daughters.
++The Holy New Hieromartyr Andrew, Archpriest of Chernigov, and his daughters Dominica, Lydia, Mary, and two other daughters.
 +
 +JANUARY 8
 +Our righteous Mother Domnica.
@@ -152,7 +152,7 @@
 +Saint Kentigern, First Bishop of Glasgow.
 +The Holy New Hieromartyrs Plato, Bishop of Revel, and Michael and Nicholas the Presbyters.
 +The Holy New Righteous Martyrs of the Monastery of Sinai and Raithu near Kazan.
-+ 
++
 +JANUARY 15
 +Our righteous Father Paul of Thebes.
 +Our righteous Father John the Hut-dweller.
@@ -173,7 +173,7 @@
 +Our Father among the Saints Honoratus, Archbishop of Aries, Founder of the Monastery of Lerins.
 +Saint Maxim us of Totma, the Fool for Christ's sake.
 +
-+JANUARY 17 
++JANUARY 17
 +Our righteous and God-bearing Father Anthony the Great.
 +Our righteous Father Achillas of Egypt.
 +The pious Emperor Theodosius the Great.
@@ -278,7 +278,7 @@
 +
 +JANUARY 25
 +Our Most Holy Lady, the Theotokos and Ever-virgin Mary, the Synaxis of whose Icon called Assuage my Sorrows we celebrate.
-+Our Father among the Saints Gregory the Theologian, Archbishop of Constantinop]e.
++Our Father among the Saints Gregory the Theologian, Archbishop of Constantinople.
 +Our righteous Fathers Publius and Mares of Syria.
 +The Holy Martyr Medula and those with her.
 +Our righteous Father Demetrius the Sacristan.
@@ -298,7 +298,7 @@
 +Our righteous Father Ammonas of Egypt.
 +Our righteous Father Gabriel.
 +The Holy Two Martyrs of Phrygia.
-+Our righteous and God-bearing Father Clement of Mount Sagmatius.
++Our righteous and God bearing Father Clement of Mount Sagmatius.
 +Saint Theodore the Studite, the return of whose Holy relics to the Monastery of Studium we commemorate.
 +Saint David the Restorer, King of Georgia.
 +Our righteous Father Xenophon of Robeika.
@@ -810,7 +810,7 @@ Our righteous Father Laurence, Founder of the sacred Monastery of Phanerumene on
 + Our righteous Father Senan, Bishop and Abbot of Scattery Island.
 +Saint Felix, Bishop of Dunwich, Enlightener of East Anglia.
 Our righteous Fathers Lazarus and Athanasius of Muromka.
-+ 
++
 +MARCH 9
 + The Holy Great Forty Martyrs of Sebastia: Hesychius,Meliton, Heraclius, Smaragdus, Domnus, Eunoicus, Valens, Vivianus, Claudius, Priscus, Theodulus, Eutychius, John, Xanthias, Helianus, Sisinius, Cyrion, Angus, Aetius, Flavius, Acacius, Ecdicius, Lysimachus, Alexander, Elias, Candidus, Theophilus, Dometian, Gaius, Gorgonius, Eutyches, Athanasius, Cyril, Sacerdon, Nicholas, Valerius, Philoctemon, Severian, Chudion, and Aglaius the prisonguard.
 The Holy Martyr Urpasianus of Nicomedia.
@@ -997,7 +997,7 @@ Our Father among the Saints Rupert (or Robert), Bishop of Salzburg and Evangeliz
 +MARCH 28
 Our righteous Father Hilarion the New, Abbot of the Monastery of Pelecete.
 Saint Herodion, one of the Seventy Apostles.
-Saint Hesychius the Theologian, Presbyter of]erusalem.
+Saint Hesychius the Theologian, Presbyter of Jerusalem.
 Our righteous Mother Gwendolyn, Abbess of Niedermunster in Alsace.
 The Holy Martyr Boyan, Prince of Bulgaria.
 The Holy Righteous Martyr Eustratius of the Kiev Caves.
@@ -1042,7 +1042,7 @@ APRIL 1
 + Our righteous Mother Mary of Egypt.
 + Our righteous Father Macari us the Confessor, Abbot of the Monastery of Pelecete.
 + The Holy Martyrs Gerontius and Basilides.
-+The Holy and justAhaz, King of}udah.
++The Holy and justAhaz, King of Judah.
 + The Holy Martyr Abramius of Bulgaria, the translation of whose sacred relics we commemorate.
 + Our righteous Father Gerontius, Canonarch of the Kiev Caves.
 + Our righteous Father John of Shavteli and Eulogius the Prophet of Georgia, the Fool for Christ's sake.
@@ -1434,7 +1434,7 @@ Our righteous Father John Psychaltes, the Confessor.
 The Holy Martyr Maximus.
 + Our righteous and God-bearing Father Nilus the New, the Myrrh-streamer of Mount Athos, the recovery of whose Holy relics we commemorate.
 +The Holy New Righteous Martyr Pachomius the Russian at Usaki in Philadelphia.
-+ The 13 Syrian Fathers in Georgia: 
++ The 13 Syrian Fathers in Georgia:
 Our righteous Father John of Zedazeni, and his disciples Habib, Bishop of Nekresi; Anthony, David of Garedja, Zeno, and Thaddaeus;Jesse, Bishop of Tsilkani; Joseph, Bishop of Alaverdi; Isidore; Michael, Pyrrhus, Stephen, and Shio.
 + Our Father among the Saints John of Beverly, Bishop of York.
 + Our righteous Fad1er Nilus of Sora.
@@ -2251,7 +2251,7 @@ Our Father among the Saints Eugene, Bishop of Carthage; Salutarius, Archdeacon o
 +JULY 14
 + The Holy Apostle Aquila.
 + The Holy Martyr Justus of Rome.
-+ Our righteous Father Onesimus the Wonderworker of Caesarea in Palestine. 
++ Our righteous Father Onesimus the Wonderworker of Caesarea in Palestine.
 Our Father among the Saints Joseph the Confessor, Archbishop of Thessalonica.
 The Holy Martyrs Aquila and Hilary.
 The Holy Hieromartyr Peter the New, Bishop of Crete.
@@ -2384,7 +2384,7 @@ The Holy New Hieromartyr Macarius, Bishop of Vyazma.
 +JULY 26
 + Our Most Holy Lady, the Theotokos and Ever-virgin Mary, whose Synaxis in Pegadion by the New Colonnade we celebrate.
 + The Holy Hieromartyrs Hermolaus, Hermippus, and Hermocrates of Nicomedia.
-+ The Holy Righteous Mart]T Paraskeve of Rome.
++ The Holy Righteous Martyr Paraskeve of Rome.
 +The Holy Martyr Oraiozela.
 + Our righteous Father Ignatius Steironites.
 +The Holy Martyrs Appion and Jerusalem.
@@ -2452,7 +2452,7 @@ The Holy New Martyrs Nicholas the Archpriest and Alexander the Chanter of Belogl
 +Our Father among the Saints Germanus, Bishop of Auxerre in Gaul.
 + Our righteous Father Arsenius, Bishop of Ninotsminda in Georgia.
 
-AUGUST I
+AUGUST 1
 + The Honoured and Life-giving Cross, whose Procession we celebrate.
 +The Holy Seven Maccabee Martyrs: Abirn, Anthony, Guria, Eleazar, Eusebona, Achim, and Marcellus; their mother Solomone; and their teacher Eleazar.
 The Holy Nine Martyrs in Perga ofPamphylia: Leontius, Attus, Alexander, Cindeus, .Mnesitheus, Cyriacus, Menai-
@@ -2658,7 +2658,7 @@ Our righteous Father Philip of Yaikovo.
 +The Holy New Hieromartyrs Achillius the Archpriest, Michael the Priest, a certain deacon, and ten others with them at Stavropol.
 +
 +AUGUST 18
-+ Our Most Holy Lady, the Theotokos and Ever-virgin Mary, the Synaxis of\vhose Sumela Icon we celebrate.
++ Our Most Holy Lady, the Theotokos and Ever virgin Mary, the Synaxis of whose Sumela Icon we celebrate.
 The Holy Martyrs Florus and Laurus of Illyricum.
 The Holy Multitude of Paupers who brake the idols to pieces and were martyred for Christ.
 The Holy Martyrs Hermus, Serapion, and Polyaenus of Rome.
@@ -2666,7 +2666,7 @@ The Holy Martyr Juliana of Nicomedia, whose Synaxis near Strobilus we celebrate.
 The Holy Martyr Leo, near Myra of Lycia.
 The Holy Four Desert Ascetics.
 Our Fathers among the Saints John and George, Patriarchs of Constantinople.
-Our righteous and God-bearing Fathers Barnabas, Sophronius, and Christopher of Mount Mela.
+Our righteous and Godbearing Fathers Barnabas, Sophronius, and Christopher of Mount Mela.
 Our righteous Father Arsenius of Paros.
 Our righteous Father Sophronius of Saint Anna's Sketeon the Holy Mountain.
 + The Holy Hieromartyr Emilian, and the Holy Martyrs
@@ -2693,7 +2693,7 @@ Saint Gennadius of Kostroma, the recovery of whose Holy relics we commemorate.
 + The Holy Martyr Oswin, King of North umbria.
 + The Holy Righteous Martyrs Christopher and Leovigildus of Cordova.
 +
-+AUGUST 21 
++AUGUST 21
 + The Holy Apostle Thaddeus.
 + The Holy Martyr Bassa and her sons Theognius, Agapius, and Pistus, of Edessa in Macedonia.
 + The Holy Martyred Bishop Privatus of Mende in Gaul.
@@ -2916,7 +2916,7 @@ The Chief Commander Michael, whose miracle in Colossae of Phrygia we commemorate
 + Our righteous Father Luke, Abbot of the Monastery of the Saviour, which is called Of the Deep Stream.
 + The Holy Virgin Martyr Regina of Alise in Gaul.
 + Saint Evurtius, Bishop of Orleans.
-+ Saint Cloud, Abbot and Founder ofNogent-sur-Seine.
++ Saint Cloud, Abbot and Founder of Nogent-sur-Seine.
 + Our Father among the Saints John the Wonderworker, Archbishop ofNovgorod.
 + The Righteous Martyr l\1acarius of Kanev, Archimandrite of Ovruch.
 + Our righteous and God-bearing Father Macarius of Optina.
@@ -3114,7 +3114,7 @@ The Holy Martyrs of the The ban Legion: Maurice, Exuperius, and Candidus the Com
 Our righteous Father Jonas of Yashozero.
 +
 +
-+SEPTEMBER 22-28
++SEPTEMBER 22
 Saturday After the Apodosis of the Exaltation
 + The Righteous Fathers of the Kiev Caves who repose in the Near Caves of Saint Anthony: Anthony the Founder; Abramius the Lover ofLabour;Abramius the Recluse;Agapetus the Unmercenary Healer; Alexis the Recluse; Alypius the Iconographer; Anastasi us the Deacon and Martyr;Anatolius, Arethas, and Athanasius the Recluses; Barlaam the Abbot; Basil and Theodore the Martyrs; Damian the Presbyter; Elias the Wonderworker of Murom; Ephraim, Bishop of Pereyaslavl; Erasmus; Esaias the Wonderworker; Eustathius; Eustratius the Martyr; Gregory the Iconographer;Gregory the Wonderworker; Helladius and Isaacius the Recluses; Jeremias the Clairvoyant; Jerome the Recluse and Wonderworker; John the Martyr and Theodore his father; John the Faster; John the Much-suffering; John and Theophilus the brethren; Juliana, Princess of Olshansk; Kuksha the Martyr; Laurence, Bishop of Turov; Luke the Steward; Macarius the Faster; Mark the Grave-digger; Matthew the Clairvoyant; Meladius the Wonderworker; Mercuri us, Bishop of Smolensk; Moses the Hungarian; Nectarius; Nestor the Chronicler; Nicetas, Bishop of Novgorod; Nicholas Svyatosha, Prince of Chernigov; Nicodemus and Spyridon the Prosphora Bakers; Nicon the Abbot; Nicon the Dry; Niphon, Bishop of Novgorod; Onesimus the Recluse; Onesiphorus the Confessor; Onuphrius the Silent; Pergius; Pimen the Faster; Pimen the Much-suffering; Polycarp the Archimandrite; Prochorus the Wonderworker; Sabbas; Sergius the Obedient; Simon, Bishop of Suzdal and Vladimir; Sisoes the Recluse; Sylvester; Theophanes the Faster; Titus the Presbyter; and the 12 Master Builders from Constantinople.
 +
@@ -3263,7 +3263,7 @@ Our Fathers among the Saints Guria, Archbishop of Kazan, and Barsanuphius, Bisho
 +OCTOBER 5
 + The Holy Martyr Charitina of Amisus.
 +The Holy Martyr Mameltha of Persia.
-+ Our righteous and God-bearing Father Eudocimus [Sabbas] the Newly-revealed of Vatopedi, the finding of whose Holy relics we commemorate.
++ Our righteous and God-bearing Father Eudocimus Sabbas the Newly-revealed of Vatopedi, the finding of whose Holy relics we commemorate.
 + Our righteous Mother Methodia of Cimolos.
 + Our righteous Father Placid, disciple of Saint Benedict.
 + Our righteous Father John, Bishop of Euchaita.
@@ -4153,17 +4153,7 @@ Our Father among the Saints Dionysius of Zakynthos, Archbishop of Aegina, the Wo
 + The Holy New Martyr Nicetas.
 +The Holy New Martyrs Pa1sius the Hieromonk and his disciple Abbacum the Deacon of Belgrade.
 +
-+DECEMBER
-18-24
-The Sunday Before the Nativity of Christ
-+ Adam and Eve, the First-fashioned.
-+The righteous Abel, Seth, Enos, Cainan, Maleleel,Jared, Enoch, Mathusalah, Lamech, Noah, Shem, Japheth, Arphaxad, Cainan, Salah, Heber, Phalec, Ragab, Seruch, Nahor, and Tharra.
-+The righteous Patriarchs Abraham, Isaac, Jacob, Reuben, Symeon, Levi, Judah, Zabulon, Issachar, Dan, Gad, Asher, Nephthalim, Joseph, and Benjamin.
-+ The righteous Jesse.
-+ David, Solomon, Ahaz, Hezekias, and Josias, the Kings.
-+ Zorobabel, who restored the Temple.
-+ Joseph the Betrothed of the Ever-virgin.
-+The righteous Melchisedek, Job, the Prophet Moses, and Or and Aaron the Priests; Jesus the Son ofNavi; Samuel, Nathan, and Daniel the Prophets; the Holy Three Children in Babylon, Ananias, Azarias, and Misael; the righteous Sarah, Rebecca, Leah, Rachel, Aseneth, Mariam the Sister of Moses, Deborah, Ruth, the righteous Widow of Sarephtha, the righteous Shummanite Woman, Judith, Esther, Hannah the Mother of Samuel the Prophet, and the righteous Susanna.
+
 +DECEMBER 18
 The Holy Martyr Sebastian and those martyred with him at Rome: Zoe, Tranquillinus, Nicostratus, Claudius, Castor, Tiburtius, Castulus, Marcellinus, and Mark.
 The Holy Martyr Eubiotus of Cyzicus in Bithynia.
@@ -4234,12 +4224,7 @@ The Holy New Hieromartyr Innocent, Archimandrite in Voronezh.
 +Our Lord and God and Saviour Jesus Christ, Whose Nativity according to the flesh we celebrate.
 The Magi who journeyed from Persia and worshipped the Lord.
 + The Shepherds abiding in the field who beheld the Lord.
-+DECEMBER 26-31
-The Sunday After the Nativity of Christ
-+The Holy and just Ancestors of God: Joseph the Be-
-trothed of the Holy Virgin, our Lady the Theotokos; James
-the Brother of the Lord, and First Bishop of Jerusalem; and
-David the Prophet and King.
+
 +DECEMBER 26
 + Our Most Holy Lady the Theotokos, whose Synaxis we celebrate, and whose Flight into Egypt we commemorate.
 + Our Father among the Saints Euthymius the Confessor, Bishop of Sardis.

@@ -8,16 +8,19 @@
     "test": "tests"
   },
   "scripts": {
-    "test": "mocha ./tests",
+    "test": "mocha  --reporter spec ./tests",
+    "test:debug": "mocha --inspect-brk  --reporter spec ./tests",
     "saintsToJSON": "rm ./data/saints.json; node ./utils/saintsToJSON.js"
   },
   "author": "brother.symeon@gmail.com",
   "license": "MIT",
   "devDependencies": {
-    "mocha": "",
-    "chia": ""
+    "chai": "^4.2.0",
+    "chia": "0.0.1",
+    "mocha": ""
   },
   "dependencies": {
+    "argparse": "^1.0.10",
     "chalk": "",
     "cliui": "",
     "lodash": ""

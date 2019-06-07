@@ -1,6 +1,6 @@
 
 var assert = require('assert')
-var extractor = require('../dataExtractor.js');
+var extractor = require('../lib/fileReader');
 
 
 const conf = {

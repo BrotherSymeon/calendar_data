@@ -1,7 +1,7 @@
 {
   "name": "calendar",
   "version": "1.0.1",
-  "description": "outputs the church calendar",
+  "description": "extracts church calendar data from various sources",
   "main": "index.js",
   "directories": {
     "lib": "lib",
@@ -10,13 +10,17 @@
   "scripts": {
     "test": "mocha  --reporter spec ./tests",
     "test:debug": "mocha --inspect-brk  --reporter spec ./tests",
-    "saintsToJSON": "rm ./data/saints.json; node ./utils/saintsToJSON.js"
+    "saintsToJSON": "rm ./data/saints.json; node ./utils/saintsToJSON.js",
+    "lint": "eslint ."
   },
   "author": "brother.symeon@gmail.com",
   "license": "MIT",
   "devDependencies": {
     "chai": "^4.2.0",
     "chia": "0.0.1",
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.17.3",
     "mocha": ""
   },
   "dependencies": {

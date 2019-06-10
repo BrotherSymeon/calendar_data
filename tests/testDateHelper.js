@@ -1,11 +1,12 @@
 
 
-var assert = require("assert")
-var helper = require('../lib/dateHelper')
-describe('Helper', function() {
-  describe('#dayDiff', function() {
-    it('should return the diffence in days between two dates',function() {
-    
-    })
-  })
-})
+const assert = require('assert');
+const helper = require('../lib/dateHelper');
+
+describe('Helper', () => {
+  describe('#dayDiff', () => {
+    it('should return the diffence in days between two dates', () => {
+
+    });
+  });
+});

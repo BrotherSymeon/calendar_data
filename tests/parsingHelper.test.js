@@ -25,6 +25,33 @@ describe('#parseScriptureReference', () => {
     assert.equal(actual.end.chapter, 3, 'should be chapter 3');
     assert.equal(actual.end.verse, 9, 'should be verse 9');
   });
+  it('should parse when commas are used', () => {
+    const input = 'Zech 14.1, 4, 8-11';
+    const actual = parseScriptureReference(input);
+    console.log(actual)
+    assert.equal(actual.length, 3, 'there should be three');
+    assert.equal(actual[0].begin.book, 'Zech', 'should be Zech');
+    assert.equal(actual[0].begin.chapter, 14, 'should be chapter 14');
+    assert.equal(actual[0].begin.verse, 1, 'should begin with verse 1');
+    assert.equal(actual[0].end.book, 'Zech', 'should be Zech');
+    assert.equal(actual[0].end.chapter, 14, 'should be chapter 14');
+    assert.equal(actual[0].end.verse, 1, 'should begin with verse 1');
+
+    assert.equal(actual[1].begin.book, 'Zech', 'should be Zech');
+    assert.equal(actual[1].begin.chapter, 14, 'should be chapter 14');
+    assert.equal(actual[1].begin.verse, 4, 'should begin with verse 1');
+    assert.equal(actual[1].end.book, 'Zech', 'should be Zech');
+    assert.equal(actual[1].end.chapter, 14, 'should be chapter 14');
+    assert.equal(actual[1].end.verse, 4, 'should begin with verse 1');
+
+    assert.equal(actual[2].begin.book, 'Zech', 'should be Zech');
+    assert.equal(actual[2].begin.chapter, 14, 'should be chapter 14');
+    assert.equal(actual[2].begin.verse, 8, 'should begin with verse 1');
+    assert.equal(actual[2].end.book, 'Zech', 'should be Zech');
+    assert.equal(actual[2].end.chapter, 14, 'should be chapter 14');
+    assert.equal(actual[2].end.verse, 11, 'should begin with verse 1');
+
+  })
   it('should parse wackout stuff like this', () => {
     // Lk 22.39-42; 22.45-23.1
     // 1Pt 1.1-2; 1.10-12; 2.6-10

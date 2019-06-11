@@ -29,7 +29,6 @@ parser.addArgument(
 );
 const args = parser.parseArgs();
 const path = require('path');
-const fs = require('fs');
 const extractor = require('../lib/fileReader');
 
 const loader = require(path.join(process.cwd(), args.parser));

@@ -11,6 +11,7 @@
     "test": "mocha  --reporter spec ./tests",
     "test:debug": "mocha --inspect-brk  --reporter spec ./tests",
     "saintsToJSON": "rm ./data/saints.json; node ./utils/saintsToJSON.js",
+    "movable-calendar": "node ./utils/exporter.js -i=./data/movable-calendar.csv -o=./output/movable-calendar.json -p=./lib/moving-calendar-loader.js",
     "lint": "eslint ."
   },
   "author": "brother.symeon@gmail.com",

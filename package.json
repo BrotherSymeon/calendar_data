@@ -28,6 +28,7 @@
     "argparse": "^1.0.10",
     "chalk": "",
     "cliui": "",
-    "lodash": ""
+    "lodash": "",
+    "moment": "^2.24.0"
   }
 }

@@ -20,7 +20,7 @@ describe('moving-calendar-loader load function with  dataset2', () => {
     assert.equal(data.length, 9, 'there should be six items to parse');
     const actual = load(null, data);
     assert.equal(actual.data.length, 6, 'it should return 6 items');
-    console.log(actual.data[2].vespers.ot);
+    console.log(actual.data);
     assert.equal(actual.data[5].epistle[0].end.book, 'Ac', 'should match');
 
     assert.equal(actual.data[5].epistle[0].end.chapter, 20, 'should match');
@@ -41,6 +41,18 @@ function dataset2() {
     'Saturday	 	Ac 20.7-12	Jn 14.10-21',
     'Seventh Sunday of Pascha:  Sunday of the Fathers of the First Ecumenical Council	 	Ac 20.16-18; 20.28-36	Jn 17.1-13',
     'Seventh Week of Pascha'];
+}
+
+function dataset3() {
+  return ['First Sunday after Pentecost:  Sunday of All Saints',
+    '   Vespers	Isa 43.9-14;Wis 3.1-9;Wis 5.15-6.3',
+    '   Liturgy	 	Heb 11.33-12.2	Mt 10.32, 33, 37, 38; 19.27-30',
+    'Monday	 	Rom 2.28-3.18	Mt 6.31-34; 7.9-11',
+    'Tuesday	 	Rom 4.4-12	Mt 7.15-21',
+    'Wednesday	 	Rom 4.13-25	Mt 7.21-23',
+    'Thursday	 	Rom 5.10-16	Mt 8.23-27',
+    'Friday	 	Rom 5.17-6.2	Mt 9.14-17',
+    'Saturday	 	Rom 3.19-26	Mt 7.1-8'];
 }
 
 

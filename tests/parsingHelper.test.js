@@ -1,11 +1,18 @@
-const parseScriptureReference = require('../lib/parsingHelper');
+const helper = require('../lib/parsingHelper');
 
 const { assert } = require('chai');
+describe('#slugify', function(){
+it('should replace all of the spaces with a hyphen', function(){
+ const actual = helper.slugify("This little pig goes round and round")
+ assert.equal(actual,"This-little-pig-goes-round-and-round" , "it aint slugged")
+  
+});
+});
 
 describe('#parseScriptureReference', () => {
   it('should return something not null', () => {
     const input = 'Mk 10.46-52';
-    const actual = parseScriptureReference(input)[0];
+    const actual = helper.parseScriptureReference(input)[0];
     // console.log(JSON.stringify(actual, null, ' '))
     assert.equal(actual.begin.book, 'Mk', 'the gospel book of Mark');
     assert.equal(actual.begin.chapter, 10, 'Huston... we have a chapter');
@@ -15,7 +22,7 @@ describe('#parseScriptureReference', () => {
     // 1Pt 2.21-3.9
     debugger;
     const input = '1Pt 2.21-3.9';
-    const actual = parseScriptureReference(input)[0];
+    const actual = helper.parseScriptureReference(input)[0];
     // console.log(JSON.stringify(actual, null, ' '))
     assert.equal(actual.begin.book, '1Pt', 'should be 1st peter');
     assert.equal(actual.begin.chapter, 2, 'should be chapter 2');
@@ -25,9 +32,10 @@ describe('#parseScriptureReference', () => {
     assert.equal(actual.end.chapter, 3, 'should be chapter 3');
     assert.equal(actual.end.verse, 9, 'should be verse 9');
   });
-  it('should parse when commas are used', () => {
+  xit('should parse when commas are used', () => {
+    //commas are no longer used and should be removed by hand
     const input = 'Zech 14.1, 4, 8-11';
-    const actual = parseScriptureReference(input);
+    const actual = helper.parseScriptureReference(input);
     console.log(actual)
     assert.equal(actual.length, 3, 'there should be three');
     assert.equal(actual[0].begin.book, 'Zech', 'should be Zech');
@@ -57,7 +65,7 @@ describe('#parseScriptureReference', () => {
     // 1Pt 1.1-2; 1.10-12; 2.6-10
     debugger;
     const input = '1Pt 1.1-2; 1.10-12; 2.6-10';
-    const actual = parseScriptureReference(input);
+    const actual = helper.parseScriptureReference(input);
     assert.equal(actual.length, 3, 'there should be three here');
     assert.equal(actual[0].begin.book, '1Pt', 'should be first Peter');
     assert.equal(actual[0].begin.chapter, 1, 'should be the first chapter');

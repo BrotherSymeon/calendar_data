@@ -1,12 +1,12 @@
 const helper = require('../lib/parsingHelper');
 
 const { assert } = require('chai');
-describe('#slugify', function(){
-it('should replace all of the spaces with a hyphen', function(){
- const actual = helper.slugify("This little pig goes round and round")
- assert.equal(actual,"This-little-pig-goes-round-and-round" , "it aint slugged")
-  
-});
+
+describe('#slugify', () => {
+  it('should replace all of the spaces with a hyphen', () => {
+    const actual = helper.slugify('This little pig goes round and round');
+    assert.equal(actual, 'This-little-pig-goes-round-and-round', 'it aint slugged');
+  });
 });
 
 describe('#parseScriptureReference', () => {
@@ -33,10 +33,10 @@ describe('#parseScriptureReference', () => {
     assert.equal(actual.end.verse, 9, 'should be verse 9');
   });
   xit('should parse when commas are used', () => {
-    //commas are no longer used and should be removed by hand
+    // commas are no longer used and should be removed by hand
     const input = 'Zech 14.1, 4, 8-11';
     const actual = helper.parseScriptureReference(input);
-    console.log(actual)
+    console.log(actual);
     assert.equal(actual.length, 3, 'there should be three');
     assert.equal(actual[0].begin.book, 'Zech', 'should be Zech');
     assert.equal(actual[0].begin.chapter, 14, 'should be chapter 14');
@@ -58,8 +58,7 @@ describe('#parseScriptureReference', () => {
     assert.equal(actual[2].end.book, 'Zech', 'should be Zech');
     assert.equal(actual[2].end.chapter, 14, 'should be chapter 14');
     assert.equal(actual[2].end.verse, 11, 'should begin with verse 1');
-
-  })
+  });
   it('should parse wackout stuff like this', () => {
     // Lk 22.39-42; 22.45-23.1
     // 1Pt 1.1-2; 1.10-12; 2.6-10

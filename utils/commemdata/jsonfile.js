@@ -5,17 +5,17 @@
 //
 const extractor = require('../../lib/fileReader');
 
-let conf = {
+const conf = {
   inFile: '',
   outFile: '',
 };
 
-[ , , conf.inFile, conf.outFile] = process.argv;
-//conf.inFile = process.argv[2];
-//conf.outFile = process.argv[3];
+[, , conf.inFile, conf.outFile] = process.argv;
+// conf.inFile = process.argv[2];
+// conf.outFile = process.argv[3];
 
-//console.log(`outFile = ${conf.outFile}`);
-//console.log(`inFile = ${conf.inFile}`);
+// console.log(`outFile = ${conf.outFile}`);
+// console.log(`inFile = ${conf.inFile}`);
 
 
 extractor.config(conf);

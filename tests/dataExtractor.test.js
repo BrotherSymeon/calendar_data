@@ -15,13 +15,13 @@ describe('extractor', () => {
     assert.equal(extractor.getConfig().inFile, conf.inFile);
     assert.equal(extractor.getConfig().outFile, conf.outFile);
   }),
-    it('#run should call our callback', (done) => {
-      extractor.config(conf);
-      extractor.run((err, lines) => {
-        assert.equal((lines.length > 0), true);
-        done();
-        const ret = ['john', 'mary', 'jane'];
-        return ret;
-      });
+  it('#run should call our callback', (done) => {
+    extractor.config(conf);
+    extractor.run((err, lines) => {
+      assert.equal((lines.length > 0), true);
+      done();
+      const ret = ['john', 'mary', 'jane'];
+      return ret;
     });
+  });
 });
